@@ -1,7 +1,8 @@
-#HSLIDE?image=images/laraconeu_2016.jpg
+#HSLIDE
 
 # Laracon.eu 2016
 
+![Logo](images/laraconeu_2016.jpg)
 
 #HSLIDE
 
