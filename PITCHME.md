@@ -1,12 +1,12 @@
 #HSLIDE
 
-# Laracon.eu 2016
+## Laracon.eu 2016
 
 ![Logo](images/laraconeu_2016.jpg)
 
 #HSLIDE
 
-## The venue
+### The venue
 
 ![Outside view](images/venue_outside.jpg)
 
@@ -41,7 +41,7 @@
 
 #HSLIDE
 
-## Cool stuff
+### Cool stuff
 
  * Taylor Otwell was there
    * Gave a keynote on _What's new in Laravel 5.3_
@@ -49,7 +49,7 @@
 
 #VSLIDE
 
-## What's new in Laravel 5.3
+### What's new in Laravel 5.3
  * _Laravel Echo_
    * Propagate events inside the application to the client via WebSockets
  * _Laravel Passport_ <!-- .element: class="fragment" -->
@@ -57,7 +57,7 @@
 
 #VSLIDE
 
-## Other stuff
+### Other stuff
 
  * Dependency injection 
    * _IoC Container Beyond Constructor Injection_
@@ -72,7 +72,7 @@
 
 #VSLIDE
 
-## Other stuff - contd
+### Other stuff - contd
 
  * MySQL 5.7 has been released and is available on AWS RDS
  * Relevant changes: <!-- .element: class="fragment" -->
@@ -83,7 +83,7 @@
 
 #VSLIDE
 
-## Other stuff - contd
+### Other stuff - contd
 
  * Heard good stuff about _Vue.js_
  * Officially supported by Laravel
@@ -92,13 +92,13 @@
 
 #HSLIDE
 
-## Random stuff
+### Random stuff
 
 ![Heineken airport commercial](images/random_airport.jpg)
 
 #HSLIDE
 
-## Random stuff - contd
+### Random stuff - contd
 
 ![Red Light District](images/random_redlight.jpg)
 
