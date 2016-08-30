@@ -99,13 +99,13 @@
 
 #HSLIDE
 
-### Random stuff
+#### Random stuff
 
 ![Heineken airport commercial](images/random_airport.jpg)
 
 #HSLIDE
 
-### Random stuff - contd
+#### Random stuff - contd
 
 ![Red Light District](images/random_redlight.jpg)
 
