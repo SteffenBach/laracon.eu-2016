@@ -46,9 +46,9 @@
  * Taylor Otwell was there
    * Gave a keynote on _What's new in Laravel 5.3_
    * Released L5.3 during the conference <!-- .element: class="fragment" -->
- * Cool venue  <!-- .element: class="fragment" -->
- * Good food and plenty of coffee
- * Recordings to published soon
+ * Cool venue <!-- .element: class="fragment" -->
+ * Good food and plenty of coffee <!-- .element: class="fragment" -->
+ * Recordings to published soon <!-- .element: class="fragment" -->
 
 #VSLIDE
 
@@ -62,14 +62,14 @@
 
 ### Dependency injection
 
- * _IoC Container Beyond Constructor Injection_
+ * Talk: _IoC Container Beyond Constructor Injection_
  * We should take a look at _Contextual binding_ to see if we can simplify our existing setup
 
 #VSLIDE
 
 ### Database migrations
 
- * _How To Avoid Database Migration Hell_
+ * Talk: _How To Avoid Database Migration Hell_
  * We underutilize the seeding functionality provided by Laravel
  * Seeders calling other seeders: <!-- .element: class="fragment" -->
    * `ProductionSeeder`
@@ -83,18 +83,18 @@
  * MySQL 5.7 has been released and is available on AWS RDS
  * Relevant changes: <!-- .element: class="fragment" -->
    * Native JSON support
-   * Generated columns <!-- .element: class="fragment" -->
-   * `0000-00-00` and `0000-00-00 00:00:00` no longer allowed <!-- .element: class="fragment" -->
-   * `only_full_group` enforced by default <!-- .element: class="fragment" -->
-   * A lot stricter - error when too long a string was inserted instead of truncating <!-- .element: class="fragment" -->
+   * Generated columns
+   * `0000-00-00` and `0000-00-00 00:00:00` no longer allowed
+   * `only_full_group` enforced by default
+   * A lot stricter - error when too long a string was inserted instead of truncating
 
 #VSLIDE
 
 ### Vue.js
 
- * Heard nothing but good stuff about it
- * Officially supported by Laravel <!-- .element: class="fragment" -->
- * Easy setup of the new event broadcasting in Laravel 5.3 <!-- .element: class="fragment" -->
+ * Heard nothing but good about it
+ * Officially supported by Laravel
+ * Easy setup of the new event broadcasting in Laravel 5.3
 
 
 #HSLIDE
