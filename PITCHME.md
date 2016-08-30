@@ -46,7 +46,7 @@
    * Gave a keynote on _What's new in Laravel 5.3_
    * Released L5.3 during the conference <!-- .element: class="fragment" -->
 
-#VLSIDE
+#VSLIDE
 
 ## What's new in Laravel 5.3
  * _Laravel Echo_
